@@ -1,0 +1,6 @@
+{
+  "name": "Health Monitoring System",
+  "description": "Comprehensive clinical and patient health monitoring system with real-time vitals tracking, alert management, NEWS2 risk evaluation, and backend API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
